@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="8" virtualPath="/sproevents.com/global.asax" hash="ffffffffb26fdc83" filehash="ffffbc8e59ce3e65" flags="150000" assembly="App_global.asax" type="ASP.global_asax">
+    <filedeps>
+        <filedep name="/sproevents.com/global.asax" />
+    </filedeps>
+</preserve>
